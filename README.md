@@ -25,7 +25,7 @@
 ### Demo
 This is a brief demo of the functionality of the project
 <p align="center">
-<img src="https://github.com/mehranmohammadiii/Todo-App/blob/main/demo/Screencastfrom2025-11-0816-39-32-ezgif.com-video-to-gif-converter(1).giff" alt="database schema" width="720"/>
+<img src="https://github.com/mehranmohammadiii/Todo-App/blob/main/demo/todo-app.gif" alt="database schema" width="720"/>
 </p>
 
 ### Features

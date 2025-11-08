@@ -33,7 +33,7 @@
 
 {% block extra_js %}{% endblock %}
 
-<div class="header-bar">
+{% comment %} <div class="header-bar">
     <a href="{% url 'tasks' %}">&#8592; Back</a>
 </div>
 
@@ -44,6 +44,6 @@
         {{form.as_p}}
         <input class="button" type="submit" value="Submit">
     </form>
-</div>
+</div> {% endcomment %}
 
 
